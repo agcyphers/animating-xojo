@@ -1,5 +1,5 @@
 # animating-xojo
-Source code for 2019 blog post series titled "Animating Xojo"
+Source code for 2019 Xojo guest blog post series titled "Animating Xojo"
 
 
 [Part 1](https://blog.xojo.com/2019/07/24/guest-post-historical-methods/)
